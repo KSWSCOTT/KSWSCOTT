@@ -1,0 +1,7 @@
+c:\users\nu\documents\visual studio 2015\Projects\hanoi\hanoi\bin\Debug\hanoi.exe.config
+C:\Unity_Study\hanoi\hanoi\bin\Debug\hanoi.exe.config
+C:\Unity_Study\hanoi\hanoi\bin\Debug\hanoi.exe
+C:\Unity_Study\hanoi\hanoi\bin\Debug\hanoi.pdb
+C:\Unity_Study\hanoi\hanoi\obj\Debug\hanoi.csprojResolveAssemblyReference.cache
+C:\Unity_Study\hanoi\hanoi\obj\Debug\hanoi.exe
+C:\Unity_Study\hanoi\hanoi\obj\Debug\hanoi.pdb
